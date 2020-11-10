@@ -270,6 +270,7 @@ small {
   .flex-30 {
     flex: 1 1 100%;
   }
+
   .flex-column {
     flex-direction: column;
   }
@@ -280,6 +281,10 @@ small {
 
   .btn {
     margin: 2rem 0;
+  }
+
+  .small {
+    margin: 1rem 0;
   }
 
   .footer-nav li {
