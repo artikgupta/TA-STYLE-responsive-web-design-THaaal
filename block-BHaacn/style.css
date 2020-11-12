@@ -602,6 +602,7 @@ footer h5 {
     color: white;
     background: linear-gradient(rgba(53, 39, 171, 0.6), rgba(53, 39, 171, 0.9));
     z-index: 999;
+    padding: 1.33rem 0;
   }
 
   .nav li {
@@ -634,11 +635,13 @@ footer h5 {
   h1 {
     font-size: 2rem;
     text-align: center;
+    margin-top: 1.5rem;
   }
 
   .bg p {
     font-size: 1rem;
     text-align: center;
+    margin: 1rem 0;
   }
 
   .bg-btn {
@@ -720,7 +723,7 @@ footer h5 {
 
   .image {
     flex: 0 1 60%;
-    margin: 3rem auto;
+    margin: 2rem auto;
   }
   small {
     font-size: 0.85rem;
