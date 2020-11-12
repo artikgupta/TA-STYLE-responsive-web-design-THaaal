@@ -514,6 +514,7 @@ time {
   margin-top: 1rem;
   margin-bottom: 5rem;
   display: inline-block;
+  font-size: 1.23rem;
 }
 
 .news a:hover {
@@ -653,6 +654,10 @@ footer h5 {
     flex: 1 1 100%;
   }
 
+  .about-content {
+    margin-top: 1.55rem;
+  }
+
   .dotted-box {
     margin-bottom: 2rem;
   }
@@ -663,7 +668,7 @@ footer h5 {
 
   .vertical-img {
     height: 15rem;
-    margin: 3rem 0;
+    margin: 1.77rem 0;
   }
 
   .lists {
@@ -716,5 +721,8 @@ footer h5 {
   .image {
     flex: 0 1 60%;
     margin: 3rem auto;
+  }
+  small {
+    font-size: 0.85rem;
   }
 }
